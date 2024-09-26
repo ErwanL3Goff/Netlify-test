@@ -61,3 +61,25 @@ p{
     font-family: Arial, Helvetica, sans-serif;
     opacity: 0.5;
 }
+
+
+@media screen and (max-width: 1024px) {
+    body {
+       position: absolute;
+       margin-left: 30%;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    body {
+       position: absolute;
+       margin-left: 25%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    body {
+       position: absolute;
+       margin-left: 20%;
+    }
+}
