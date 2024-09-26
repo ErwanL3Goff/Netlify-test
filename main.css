@@ -59,6 +59,10 @@ a{
     font-size: small;
 }
 
+.monbled:hover{
+    color: gold;
+}
+
 p{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
