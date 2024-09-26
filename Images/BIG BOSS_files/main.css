@@ -5,13 +5,6 @@ body{
 
 h2{
     color: white;
-    margin-bottom: 4px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-img{
-    height: 90px;
-    border-radius: 100%;
 }
 
 .contenaire{
@@ -34,11 +27,6 @@ ul{
     padding: 12px;
     border-radius: 6px;
     margin-bottom: -2px;
-    opacity: 0.6;
-}
-
-ul:hover {
-    opacity: 1;
 }
 
 .gon {
@@ -48,16 +36,14 @@ ul:hover {
 a{
     text-decoration: none;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .monbled {
-    color: rgb(111, 240, 111);
+    position: ;
+    color: rgb(8, 221, 8);
     font-size: small;
 }
 
 p{
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
-    opacity: 0.5;
 }
