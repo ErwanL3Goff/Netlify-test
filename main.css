@@ -92,9 +92,39 @@ p{
     }
 }
 
+
 @media screen and (max-width: 800px) {
     body {
        position: absolute;
        margin-left: 20%;
     }
+}
+
+@media screen and (max-width: 425px) {
+    body {
+        position: absolute;
+        margin-left: 14%;
+     }
+}
+
+@media screen and (max-width: 375px) {
+    body {
+        position: absolute;
+        margin-left: 9%;
+     }
+}
+
+
+@media screen and (max-width: 360px) {
+    body {
+        position: absolute;
+        margin-left: 7%;
+     }
+}
+
+@media screen and (max-width: 320px) {
+    body {
+        position: absolute;
+        margin-left: 1.5%;
+     }
 }
